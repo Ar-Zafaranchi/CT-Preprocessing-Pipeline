@@ -1,3 +1,4 @@
+# HEAL ITALIA PROJECT
 # CT Preprocessing Pipeline for Lung Imaging
 
 ## Overview
