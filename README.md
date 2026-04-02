@@ -1,4 +1,5 @@
-# HEAL ITALIA PROJECT
+# HEAL ITALIA PROJECT- SPOKE 2
+![Pipeline](Logo-Header.png)
 # CT Preprocessing Pipeline for Lung Imaging
 
 ## Overview
